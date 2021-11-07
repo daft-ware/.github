@@ -1,8 +1,12 @@
 ```sh
-Hello, friend...
+hello, friend...
 
-We do some eoss (extremely open source sofware) here
+we do some eoss (extremely open source sofware) here
+
+while listening to...
 ```
-
+```
+https://youtu.be/ngDJIjbAvz4
+```
 
 
